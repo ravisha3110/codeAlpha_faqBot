@@ -7,7 +7,7 @@ uvicorn[standard]==0.29.0
 
 # ─── NLP & Machine Learning ──────────────────────────────────────────────────
 nltk==3.8.1
-scikit-learn==1.4.2
+#scikit-learn==1.4.2
 numpy==1.26.4
 
 # ─── Sentence Transformers (Bonus: Semantic Search) ──────────────────────────
