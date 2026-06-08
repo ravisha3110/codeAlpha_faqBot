@@ -244,3 +244,4 @@ Then in the UI, click the **🧠 Semantic** pill in the input bar.
 - **sentence-transformers** — Semantic search
 - **Axios** — HTTP client
 - **Inter** (Google Fonts) — Typography
+"# codeAlpha_faqBot" 
