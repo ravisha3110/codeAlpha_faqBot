@@ -8,7 +8,7 @@ uvicorn[standard]==0.29.0
 # ─── NLP & Machine Learning ──────────────────────────────────────────────────
 nltk==3.8.1
 #scikit-learn==1.4.2
-numpy==1.26.4
+numpy==1.26.3
 
 # ─── Sentence Transformers (Bonus: Semantic Search) ──────────────────────────
 # Uncomment the line below to enable semantic search mode
@@ -16,5 +16,5 @@ numpy==1.26.4
 # sentence-transformers==2.7.0
 
 # ─── Utilities ───────────────────────────────────────────────────────────────
-pydantic==2.7.1
+pydantic==2.6.4
 python-dotenv==1.0.1
