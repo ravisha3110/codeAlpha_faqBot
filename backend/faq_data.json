@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "Products can be returned within 30 days of purchase. Items must be unused, in original packaging, and accompanied by a receipt. Refunds are processed within 5-7 business days.",
+    "category": "Returns"
+  },
+  {
+    "id": 2,
+    "question": "How do I return a product?",
+    "answer": "To return a product, visit our Returns Center, enter your order number, select the item to return, and print the prepaid shipping label. Drop off the package at any authorized shipping location.",
+    "category": "Returns"
+  },
+  {
+    "id": 3,
+    "question": "Can I exchange an item instead of returning it?",
+    "answer": "Yes, exchanges are available within 30 days. Simply initiate a return and place a new order for the replacement item. We'll refund the original purchase once we receive the return.",
+    "category": "Returns"
+  },
+  {
+    "id": 4,
+    "question": "Do I get a full refund on returned items?",
+    "answer": "Yes, you receive a full refund to your original payment method for returned items in acceptable condition. Shipping fees are non-refundable unless the return is due to our error.",
+    "category": "Returns"
+  },
+  {
+    "id": 5,
+    "question": "When will my order arrive?",
+    "answer": "Standard orders are delivered within 3-5 business days. Express shipping takes 1-2 business days. Delivery times may vary during peak seasons or due to carrier delays.",
+    "category": "Shipping"
+  },
+  {
+    "id": 6,
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number via email. Use this number on our website or the carrier's site to track your shipment in real time.",
+    "category": "Shipping"
+  },
+  {
+    "id": 7,
+    "question": "Do you offer free shipping?",
+    "answer": "Yes! We offer free standard shipping on all orders over $50. Orders below $50 have a flat shipping rate of $4.99.",
+    "category": "Shipping"
+  },
+  {
+    "id": 8,
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries. International shipping rates and delivery times vary by destination. Customs fees may apply and are the buyer's responsibility.",
+    "category": "Shipping"
+  },
+  {
+    "id": 9,
+    "question": "What shipping carriers do you use?",
+    "answer": "We use UPS, FedEx, and USPS for domestic shipments. International orders are shipped via DHL or our local carrier partners.",
+    "category": "Shipping"
+  },
+  {
+    "id": 10,
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page, enter your registered email address, and follow the instructions in the reset email. The link expires after 24 hours.",
+    "category": "Account"
+  },
+  {
+    "id": 11,
+    "question": "How do I change my password?",
+    "answer": "Go to Account Settings > Security > Change Password. Enter your current password, then your new password twice to confirm the change.",
+    "category": "Account"
+  },
+  {
+    "id": 12,
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' on the homepage, fill in your name, email, and password. Verify your email address through the confirmation link we send you.",
+    "category": "Account"
+  },
+  {
+    "id": 13,
+    "question": "How do I delete my account?",
+    "answer": "Go to Account Settings > Privacy > Delete Account. Confirm your decision and your account will be permanently deleted within 14 days. This action cannot be undone.",
+    "category": "Account"
+  },
+  {
+    "id": 14,
+    "question": "How do I update my email address?",
+    "answer": "Navigate to Account Settings > Profile > Email. Enter your new email address and verify it through the confirmation link sent to your new email.",
+    "category": "Account"
+  },
+  {
+    "id": 15,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and bank transfers. All transactions are secured with 256-bit SSL encryption.",
+    "category": "Payments"
+  },
+  {
+    "id": 16,
+    "question": "Is my payment information secure?",
+    "answer": "Absolutely. We use PCI DSS-compliant payment processing with 256-bit SSL encryption. We never store full card numbers on our servers.",
+    "category": "Payments"
+  },
+  {
+    "id": 17,
+    "question": "Can I pay in installments?",
+    "answer": "Yes, we offer installment plans through Klarna and Afterpay. Choose your preferred installment option at checkout. Available for orders over $100.",
+    "category": "Payments"
+  },
+  {
+    "id": 18,
+    "question": "Why was my payment declined?",
+    "answer": "Payments may be declined due to incorrect card details, insufficient funds, or bank security restrictions. Contact your bank or try a different payment method.",
+    "category": "Payments"
+  },
+  {
+    "id": 19,
+    "question": "How do I apply a discount code?",
+    "answer": "Enter your discount code in the 'Promo Code' field at checkout and click 'Apply'. The discount will be reflected in your order total before payment.",
+    "category": "Payments"
+  },
+  {
+    "id": 20,
+    "question": "How do I cancel my order?",
+    "answer": "Orders can be cancelled within 1 hour of placement. Go to My Orders, select the order, and click 'Cancel Order'. After 1 hour, the order may already be in processing.",
+    "category": "Orders"
+  },
+  {
+    "id": 21,
+    "question": "Can I modify my order after placing it?",
+    "answer": "Orders can be modified within 30 minutes of placement. Contact our support team immediately with your order number and the changes you need.",
+    "category": "Orders"
+  },
+  {
+    "id": 22,
+    "question": "Where can I view my order history?",
+    "answer": "Log in to your account and go to My Orders. You'll find a complete history of all past and current orders with status updates and tracking information.",
+    "category": "Orders"
+  },
+  {
+    "id": 23,
+    "question": "My order arrived damaged. What should I do?",
+    "answer": "We're sorry for the inconvenience! Take photos of the damage and contact our support team within 48 hours. We'll arrange a replacement or full refund promptly.",
+    "category": "Orders"
+  },
+  {
+    "id": 24,
+    "question": "I received the wrong item. What do I do?",
+    "answer": "We apologize for the mix-up! Contact support with your order number and photos of the wrong item. We'll ship the correct item immediately and arrange a free return.",
+    "category": "Orders"
+  },
+  {
+    "id": 25,
+    "question": "Are your products covered by a warranty?",
+    "answer": "Most products come with a 1-year manufacturer's warranty. Some premium products include extended warranties. Check the product page for specific warranty details.",
+    "category": "Products"
+  },
+  {
+    "id": 26,
+    "question": "How do I find the right product size?",
+    "answer": "Each product page includes a detailed size guide with measurements. If you're unsure, our size recommendation tool can help based on your measurements.",
+    "category": "Products"
+  },
+  {
+    "id": 27,
+    "question": "Are your products environmentally friendly?",
+    "answer": "We're committed to sustainability. Many of our products are made from recycled or eco-friendly materials. Look for the 'Eco' badge on product pages.",
+    "category": "Products"
+  },
+  {
+    "id": 28,
+    "question": "Do you restock out-of-stock items?",
+    "answer": "Yes, most out-of-stock items are restocked within 2-4 weeks. Click 'Notify Me' on the product page to receive an email when the item becomes available.",
+    "category": "Products"
+  },
+  {
+    "id": 29,
+    "question": "Can I write a product review?",
+    "answer": "Absolutely! After purchasing, you'll receive an email inviting you to review your product. You can also go to the product page and click 'Write a Review'.",
+    "category": "Products"
+  },
+  {
+    "id": 30,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via live chat (available 24/7), email at support@example.com, or phone at 1-800-123-4567 (Mon–Fri, 9am–6pm EST).",
+    "category": "Support"
+  },
+  {
+    "id": 31,
+    "question": "What are your customer support hours?",
+    "answer": "Our live chat is available 24/7. Phone and email support is available Monday–Friday, 9am–6pm EST. We aim to respond to emails within 24 hours.",
+    "category": "Support"
+  },
+  {
+    "id": 32,
+    "question": "How long does it take to get a support response?",
+    "answer": "Live chat: instant. Email: within 24 hours. Phone: average wait time under 3 minutes. We prioritize urgent issues and aim to resolve all tickets within 48 hours.",
+    "category": "Support"
+  },
+  {
+    "id": 33,
+    "question": "Do you have a loyalty program?",
+    "answer": "Yes! Our Rewards Program lets you earn points on every purchase. Points can be redeemed for discounts, free products, and exclusive member perks. Sign up in Account Settings.",
+    "category": "Support"
+  },
+  {
+    "id": 34,
+    "question": "How do I report a problem with the website?",
+    "answer": "Please contact our technical support team at techsupport@example.com with a description of the issue, your browser, and screenshots if possible. We'll investigate promptly.",
+    "category": "Technical"
+  },
+  {
+    "id": 35,
+    "question": "Which browsers are supported?",
+    "answer": "Our website works best on the latest versions of Chrome, Firefox, Safari, and Edge. We recommend keeping your browser updated for the best experience.",
+    "category": "Technical"
+  },
+  {
+    "id": 36,
+    "question": "Is there a mobile app available?",
+    "answer": "Yes! Our app is available for iOS (App Store) and Android (Google Play). It features all website functionality plus exclusive app-only deals and push notifications.",
+    "category": "Technical"
+  },
+  {
+    "id": 37,
+    "question": "How do I enable notifications?",
+    "answer": "In the app, go to Settings > Notifications and toggle on your preferred notification types. On the website, you can manage email notifications in Account Settings > Notifications.",
+    "category": "Technical"
+  },
+  {
+    "id": 38,
+    "question": "Why is the website slow?",
+    "answer": "If our website is slow, try clearing your browser cache, disabling extensions, or switching browsers. If issues persist, our technical team may be performing maintenance.",
+    "category": "Technical"
+  },
+  {
+    "id": 39,
+    "question": "How do you protect my personal data?",
+    "answer": "We follow strict GDPR and CCPA guidelines. Your data is encrypted, never sold to third parties, and only used to improve your shopping experience. See our Privacy Policy for details.",
+    "category": "Privacy"
+  },
+  {
+    "id": 40,
+    "question": "Do you share my information with third parties?",
+    "answer": "We never sell your personal information. We may share anonymized data with analytics partners and share necessary order details with shipping carriers.",
+    "category": "Privacy"
+  },
+  {
+    "id": 41,
+    "question": "How do I opt out of marketing emails?",
+    "answer": "Click 'Unsubscribe' at the bottom of any marketing email, or go to Account Settings > Notifications and uncheck 'Marketing Emails'. You'll be removed within 48 hours.",
+    "category": "Privacy"
+  },
+  {
+    "id": 42,
+    "question": "What data do you collect?",
+    "answer": "We collect basic account info (name, email), order history, browsing behavior on our site, and device information to improve your experience. See our full Privacy Policy.",
+    "category": "Privacy"
+  },
+  {
+    "id": 43,
+    "question": "How do I download my personal data?",
+    "answer": "Go to Account Settings > Privacy > Download My Data. We'll prepare a data export and email you a download link within 30 days as required by GDPR.",
+    "category": "Privacy"
+  },
+  {
+    "id": 44,
+    "question": "Do you offer gift cards?",
+    "answer": "Yes! Gift cards are available in denominations of $10, $25, $50, $100, and $200. They can be purchased online and delivered via email or physical mail.",
+    "category": "Payments"
+  },
+  {
+    "id": 45,
+    "question": "How do I use a gift card?",
+    "answer": "At checkout, enter your gift card code in the 'Gift Card' field. The balance will be applied to your order total. Multiple gift cards can be used per order.",
+    "category": "Payments"
+  },
+  {
+    "id": 46,
+    "question": "What happens if I miss a delivery?",
+    "answer": "The carrier will leave a delivery notice and typically attempt re-delivery the next business day. You can also arrange a pickup from the local carrier facility or reschedule delivery online.",
+    "category": "Shipping"
+  },
+  {
+    "id": 47,
+    "question": "Can I change my shipping address after ordering?",
+    "answer": "Address changes must be requested within 30 minutes of placing the order. Contact support immediately with your order number and new address. Changes after shipping are not guaranteed.",
+    "category": "Shipping"
+  },
+  {
+    "id": 48,
+    "question": "Do you offer same-day delivery?",
+    "answer": "Same-day delivery is available in select metropolitan areas for orders placed before 11am local time. Check availability at checkout by entering your zip code.",
+    "category": "Shipping"
+  },
+  {
+    "id": 49,
+    "question": "How do I use the search feature?",
+    "answer": "Use the search bar at the top of any page to find products by name, category, or keywords. Use filters on the results page to narrow by price, rating, size, and more.",
+    "category": "Technical"
+  },
+  {
+    "id": 50,
+    "question": "Can I save items to a wishlist?",
+    "answer": "Yes! Click the heart icon on any product to add it to your wishlist. Access your wishlist from your account menu. You can share wishlists with friends and family.",
+    "category": "Products"
+  },
+  {
+    "id": 51,
+    "question": "What is your price match guarantee?",
+    "answer": "We'll match any competitor's price on identical items within 7 days of purchase. Contact support with the competitor's link and we'll process the price adjustment.",
+    "category": "Payments"
+  },
+  {
+    "id": 52,
+    "question": "How do I sign up for the newsletter?",
+    "answer": "Enter your email in the newsletter signup box at the bottom of our homepage, or go to Account Settings > Notifications and enable newsletter subscription.",
+    "category": "Account"
+  },
+  {
+    "id": 53,
+    "question": "What is your privacy policy?",
+    "answer": "Our Privacy Policy outlines how we collect, use, and protect your data. It is available on our website footer under 'Legal'. We review and update it regularly.",
+    "category": "Privacy"
+  },
+  {
+    "id": 54,
+    "question": "Do you offer student discounts?",
+    "answer": "Yes! Verified students receive 15% off all purchases. Verify your student status through our partner SheerID from the 'Student Discount' page in your account.",
+    "category": "Payments"
+  },
+  {
+    "id": 55,
+    "question": "How do I become a seller on your platform?",
+    "answer": "Apply through our Seller Program page. Submit your business details, product catalog, and verification documents. Our team reviews applications within 5 business days.",
+    "category": "Account"
+  }
+]

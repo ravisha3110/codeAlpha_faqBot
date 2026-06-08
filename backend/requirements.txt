@@ -1,0 +1,20 @@
+# FAQ Chatbot Backend Requirements
+# Install with: pip install -r requirements.txt
+
+# ─── Web Framework ───────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# ─── NLP & Machine Learning ──────────────────────────────────────────────────
+nltk==3.8.1
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# ─── Sentence Transformers (Bonus: Semantic Search) ──────────────────────────
+# Uncomment the line below to enable semantic search mode
+# Requires ~500MB download on first run
+sentence-transformers==2.7.0
+
+# ─── Utilities ───────────────────────────────────────────────────────────────
+pydantic==2.7.1
+python-dotenv==1.0.1
